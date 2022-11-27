@@ -7,7 +7,7 @@
 - [x] Contributors can withdraw contributed amount if project expire.
 - [x] Owner need to request contributors for withdraw amount.
 - [x] Owner can withdraw amount if 50% contributors agree.
-- [x] Connect with waller.
+- [x] Connect with your wallet.
 
 
 ### Tech stack & packages used 📦
